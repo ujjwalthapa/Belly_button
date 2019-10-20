@@ -81,8 +81,6 @@ Use Flask API starter code to serve the data needed for your plots.
 
 - - -
 
-### Author
 
-Christine Ton
 
 
